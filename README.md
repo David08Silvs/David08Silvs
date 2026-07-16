@@ -1,9 +1,22 @@
-- 👋 Olá, sou o David Silva
-- 🏋️‍♂️ Desportista por natureza — já experimentei de tudo: escalada, corrida, surf, bike, snow, ginásio... estou sempre à procura do próximo desafio.
-- 💻 Programador em crescimento constante, apaixonado por resolver problemas e aprender novas tecnologias.
-- 🧠 Mentalidade de atleta: foco, consistência e superação — levo isso para o código também.
-- 🌱 Atualmente a explorar aplicações Web + React Native
-- 💬 Gosto de colaborar em projetos com impacto, de preferência onde se cruza tecnologia + movimento + criatividade.
-- 📫 Fala comigo: correiodavidsilva@gmail.com
-- ⚡ Fun fact: criativo, competitivo e viciado em desafios — físicos ou lógicos.
+David Silva
 
+Junior Developer passionate about programming and continuous learning.
+
+Skills:
+  C#
+  SQL Server
+  HTML5 & CSS3
+  ASP.NET Web Forms
+  Git & GitHub
+  Responsive Web Design
+  Problem Solving
+
+About Me
+
+I'm an 18-year-old developer from Portugal currently building projects to improve my programming skills. I enjoy developing web applications, learning new technologies, and solving practical problems through code.
+My goal is to continuously grow as a software developer while creating useful and well-structured projects. I'm always looking for opportunities to learn and take on new challenges.
+
+Currently Learning:
+  JavaScript
+  Web Development Best Practices
+  Software Development Principles
